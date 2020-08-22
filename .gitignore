@@ -1,0 +1,9 @@
+# Ignore virtualenv
+venv*
+
+# Ignore cache directories
+.cache
+__pycache__
+
+# Ignore files created by the IDE
+.idea

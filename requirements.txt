@@ -1,0 +1,4 @@
+pydicom~=2.0.0
+matplotlib~=3.3.1
+html-testRunner
+#TODO maybe there are missing some requirements. Add here
